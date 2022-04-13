@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert Sherwin (@robsherw)
+- 👋🏻 Hi, I’m Robert Sherwin (@robsherw)
 - 📫 robsherw@cisco.com
 
 <!---
